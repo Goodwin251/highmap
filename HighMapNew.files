@@ -1,0 +1,13 @@
+build/Desktop_x86_windows_msvc2022_pe_64bit-Debug/CMakeFiles/3.27.7/CompilerIdCXX/CMakeCXXCompilerId.cpp
+build/Desktop_x86_windows_msvc2022_pe_64bit-Debug/CMakeFiles/ShowIncludes/foo.h
+build/Desktop_x86_windows_msvc2022_pe_64bit-Debug/CMakeFiles/ShowIncludes/main.c
+build/Desktop_x86_windows_msvc2022_pe_64bit-Release/CMakeFiles/3.27.7/CompilerIdCXX/CMakeCXXCompilerId.cpp
+build/Desktop_x86_windows_msvc2022_pe_64bit-Release/CMakeFiles/ShowIncludes/foo.h
+build/Desktop_x86_windows_msvc2022_pe_64bit-Release/CMakeFiles/ShowIncludes/main.c
+main.cpp
+mainwindow.cpp
+mainwindow.h
+map.cpp
+map.h
+window.cpp
+window.h
